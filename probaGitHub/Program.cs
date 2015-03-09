@@ -10,6 +10,7 @@ namespace probaGitHub
     {
         static void Main(string[] args)
         {
+            int b = 3;
 
             Console.WriteLine("proba2");
             Console.ReadLine();
