@@ -14,7 +14,7 @@ namespace probaGitHub
             int b = 3;
             String stips;
 
-
+            int c = 4;
             int i=1;
 
             Console.WriteLine("proba2");
