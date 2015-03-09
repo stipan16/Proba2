@@ -9,6 +9,8 @@ namespace probaGitHub
     class Klasa
     {
         public void Klasa() { 
+            int i;
+            
         }
     }
 }
